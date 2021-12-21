@@ -19,7 +19,7 @@ My Name is Thrishtha Kachraj.
 
 -City: Hyderabad
 
--Languages: Telegu, English and Hindi.
+-Languages: Telugu, English and Hindi.
 
 -Computer Languages: Python, HTML, CSS, JavaScript, PUG, SCSS and Sass
 <hr>
