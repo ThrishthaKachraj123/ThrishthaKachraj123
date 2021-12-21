@@ -9,11 +9,17 @@ My Name is Thrishtha Kachraj.
 <hr>
 ### 𝓖𝓮𝓽 𝓣𝓸 𝓚𝓷𝓸𝔀 𝓜𝓮!
 -Grade: 6
+
 -School: Oakridge International School, Gachibowli
+
 -Nationality: Indian-American
+
 -State: Telengana
+
 -City: Hyderabad
+
 -Languages: Telegu, English and Hindi.
+
 -Computer Languages: Python, HTML, CSS, JavaScript, PUG, SCSS and Sass
 <hr>
 
