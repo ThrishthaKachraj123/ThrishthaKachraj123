@@ -1,6 +1,4 @@
 ### 𝓗𝓲𝔂𝓪 𝓔𝓿𝓮𝓻𝔂𝓸𝓷𝓮!! 👋
-
-<!--
 **My Name is Thrishtha Kachraj.
 **I study in grade 6 in Oakridge International School, Gachibowli, Telengana Hyderabad.
 
