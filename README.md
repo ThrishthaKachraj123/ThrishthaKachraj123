@@ -7,7 +7,7 @@ My Name is Thrishtha Kachraj.
 - ⚡ Fun fact: I'm a Whitehat JR Coder!
 
 <hr>
-### 𝓖𝓮𝓽 𝓣𝓸 𝓚𝓷𝓸𝔀 𝓜𝓮!
+<h1>𝓖𝓮𝓽 𝓣𝓸 𝓚𝓷𝓸𝔀 𝓜𝓮!
 
 -Grade: 6
 
