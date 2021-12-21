@@ -27,10 +27,13 @@ My Name is Thrishtha Kachraj.
 <h2>☎️️📞🤙 You can reach me on ⬇️</h2>
 
 *[Codepen](https://codepen.io/Thrishtha-Kachraj-2359)
-*[Github](https://github.com/ThrishthaKachraj123)
-*[WhiteHat JR Community](https://community.whitehatjr.com/profile/5c25af34-57bd-42c9-a8a4-9884f1888ddb
 
-<h2>👁️ Do visit my [WHJR Site](thrishthakachraj.whjr.site)</h2>
+*[Github](https://github.com/ThrishthaKachraj123)
+
+*[WhiteHat JR Community](https://community.whitehatjr.com/profile/5c25af34-57bd-42c9-a8a4-9884f1888ddb)
+
+
+👁️ Do visit my [WHJR Site](https://thrishthakachraj.whjr.site)
 
 
 
