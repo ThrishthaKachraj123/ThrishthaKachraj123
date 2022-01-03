@@ -32,10 +32,6 @@ My Name is Thrishtha Kachraj.
 
 *[WhiteHat JR Community](https://community.whitehatjr.com/profile/5c25af34-57bd-42c9-a8a4-9884f1888ddb)
 
-strong#followers-count:before {content: '1';}
-
-strong#followers-count:after {
-    content: '';
 
 
 👁️ Do visit my [WHJR Site](https://thrishthakachraj.whjr.site)
