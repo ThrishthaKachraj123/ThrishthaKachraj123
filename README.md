@@ -30,7 +30,7 @@ My Name is Thrishtha Kachraj.
 
 *[Github](https://github.com/ThrishthaKachraj123)
 
-*[Discord](𝐋𝐚𝐝𝐲 𝐖𝐢𝐟𝐢#1695) Just DM me 🙂
+*Discord-𝐋𝐚𝐝𝐲 𝐖𝐢𝐟𝐢#1695 Just DM me 🙂
 
 
 
