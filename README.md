@@ -2,9 +2,9 @@
 My Name is Thrishtha Kachraj.
 
 - 🔭 I’m currently working on mastering HTML & Python
-- 🤔 I like digital designing.
-- 💬 In my opinion, Critical Thinking  helps you THE MOST when you're coding. 
-- ⚡ Fun fact: I'm a Whitehat JR Coder!
+- 🤔 IDK LOL
+- 💬 Uhhhh what do YOU wanna know? 
+- ⚡ Fun fact: A shrimp's heart is in its head.
 
 <hr>
 <h1>𝓖𝓮𝓽 𝓣𝓸 𝓚𝓷𝓸𝔀 𝓜𝓮!</h1>
@@ -34,7 +34,6 @@ My Name is Thrishtha Kachraj.
 
 
 
-👁️ Do visit my [WHJR Site](https://thrishthakachraj.whjr.site)
 
 🎴Wanna play??? [here is my ROBLOX Profile!](https://www.roblox.com/users/3211348345/profile)
 
