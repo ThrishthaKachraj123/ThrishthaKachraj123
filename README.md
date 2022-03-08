@@ -30,7 +30,7 @@ My Name is Thrishtha Kachraj.
 
 *[Github](https://github.com/ThrishthaKachraj123)
 
-*[WhiteHat JR Community](https://community.whitehatjr.com/profile/5c25af34-57bd-42c9-a8a4-9884f1888ddb)
+*[Discord](𝐋𝐚𝐝𝐲 𝐖𝐢𝐟𝐢#1695) Just DM me 🙂
 
 
 
