@@ -1,5 +1,5 @@
 <h1> 𝓗𝓲𝔂𝓪 𝓔𝓿𝓮𝓻𝔂𝓸𝓷𝓮!! 👋</h1>
-My Name is Thrishtha Kachraj.
+My Name is Thrishtha.
 
 - 🔭 I’m currently working on mastering HTML & Python
 - 🤔 IDK LOL
@@ -9,34 +9,25 @@ My Name is Thrishtha Kachraj.
 <hr>
 <h1>𝓖𝓮𝓽 𝓣𝓸 𝓚𝓷𝓸𝔀 𝓜𝓮!</h1>
 
--Grade: 6
+-Grade: (Changes every year)
 
--School: Oakridge International School, Gachibowli
+-School: Oakridge International School
 
--Nationality: Indian-American
+-Nationality: (Something)
 
--State: Telengana
+-State: (In a country)
 
--City: Hyderabad
+-City: (Somewhere)
 
--Languages: Telugu, English, Marathi and Hindi.
+-Languages: English
 
 -Computer Languages: Python, HTML, CSS, JavaScript, PUG, SCSS and Sass
 <hr>
 
-<h2>☎️️📞🤙 You can reach me on ⬇️</h2>
+<h2>Heres my codepen profile⬇️ (If u want it....)</h2>
 
 *[Codepen](https://codepen.io/Thrishtha-Kachraj-2359)
 
-*[Github](https://github.com/ThrishthaKachraj123)
-
-*Discord- テンテン ՇħгıᏕԋȶᏂค#1695 Just DM me 🙂
 
 
 
-
-🎴Wanna play??? [here is my ROBLOX Profile!](https://www.roblox.com/users/3211348345/profile)
-
-
-
--->
