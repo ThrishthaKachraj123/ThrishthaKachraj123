@@ -6,14 +6,6 @@ My Name is Thrishtha :(.
 - 💬 someone text meeee
 - ⚡ Fun fact: A shrimp's heart is in its head.
 
-<hr>
-<h1>𝓖𝓮𝓽 𝓣𝓸 𝓚𝓷𝓸𝔀 𝓜𝓮!</h1>
--Grade: (Changes every year)
--School: ois'28 hyd
-ifykyk
-
-
-
 <h2> codepennnn⬇️ (If u want it....)</h2>
 
 *[Click here](https://codepen.io/thrishthaaa)
